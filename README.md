@@ -6,7 +6,7 @@ So far Unity has been interesting to learn, and I think I might enjoy game devel
 ## Introduction
 If you would like to try my game, you'll need Unity to run it, and probably MVS.
 
-The game itself is really simple, you can set a min and a max number within the Unity console, and the program will randomly guess numbers within the min and the max boundaries, while the player tells the program whether the number they have thought of is higher or lower than the guess. 
+The game itself is really simple, you set a min and a max number within the Unity console, and think of a number between those two numbers. The program will randomly guess numbers within the min and the max boundaries, while the player tells the program whether the number they have thought of is higher or lower than the guess. 
 
 ## Created Using
 
