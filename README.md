@@ -4,7 +4,7 @@ I recently started learning to use Unity to create 2D games, and this is one of 
 So far Unity has been interesting to learn, and I think I might enjoy game development in the future, which is why I wanted to try and teach myself how to use Unity. 
 
 ## Introduction
-If you would like to try my game, you'll need Unity to run it, and probably MVS.
+If you would like to try my game, you'll need Unity to run it.
 
 The game itself is really simple, you set a min and a max number within the Unity console, and think of a number between those two numbers. The program will randomly guess numbers within the min and the max boundaries, while the player tells the program whether the number they have thought of is higher or lower than the guess. 
 
